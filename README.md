@@ -1,4 +1,4 @@
-###Math111a final project 
+### Math111a final project 
 model.ipynb is my model building process
 
 all_shot_data is shot_log obtained from https://www.kaggle.com/datasets/jackchen019/nba-2023-24-player-shooting-datainclude-playoffs
